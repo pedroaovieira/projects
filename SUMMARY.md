@@ -11,4 +11,5 @@
 * [Floppy Music](floppy-music.md)
 * [WiFi Robot](wifi-robot.md)
 * [Digital Frame](digital-frame.md)
+* [FramedIT](framedit.md)
 
