@@ -9,7 +9,7 @@
 * [Wifi Lamp](wifi-lamp/README.md)
   * [NodeMCU ESP-12 ESP8266](wifi-lamp/nodemcu-esp-12-esp8266.md)
 * [Floppy Music](floppy-music.md)
-* [WiFi Robot](wifi-robot.md)
+* [WiFi Robot - RoadGeek](wifi-robot.md)
 * [Digital Frame](digital-frame.md)
 * [FramedIT](framedit.md)
 
