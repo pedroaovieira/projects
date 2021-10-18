@@ -4,7 +4,5 @@
 
 {% embed url="https://www.youtube.com/watch?v=stfSn7ya2cQ" %}
 
-{% embed url="https://www.youtube.com/watch?v=ku\_P4JR6qKc" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=ku_P4JR6qKc" %}
 

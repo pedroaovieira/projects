@@ -2,5 +2,3 @@
 
 {% embed url="http://sergiogracas.com/emular/iso/" %}
 
-
-
